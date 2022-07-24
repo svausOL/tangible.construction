@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## J.C L. Thành
 
 You can use the [editor on GitHub](https://github.com/laijchen/ecovis/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
