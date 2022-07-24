@@ -1,120 +1,139 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="profile" href="https://gmpg.org/xfn/11">
-		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-<title>J.C L. Thành &#8211; B.B.A., MSc. ISM</title>
-<script type="text/javascript">
-  WebFontConfig = {"google":{"families":["Libre+Baskerville:r:latin,latin-ext","Libre+Baskerville:r,i,b,bi:latin,latin-ext"]}};
-  (function() {
-    var wf = document.createElement('script');
-    wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
-    wf.type = 'text/javascript';
-    wf.async = 'true';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(wf, s);
-	})();
-</script><style id="jetpack-custom-fonts-css">.wf-active body, .wf-active button, .wf-active input, .wf-active select, .wf-active textarea{font-family:"Libre Baskerville",serif;font-size:11.2px}.wf-active ::-webkit-input-placeholder{font-family:"Libre Baskerville",serif}.wf-active :-moz-placeholder{font-family:"Libre Baskerville",serif}.wf-active ::-moz-placeholder{font-family:"Libre Baskerville",serif}.wf-active :-ms-input-placeholder{font-family:"Libre Baskerville",serif}.wf-active blockquote, .wf-active .entry-content h3, .wf-active .entry-summary h3, .wf-active .comment-content h3, .wf-active .textwidget h3, .wf-active body:not(.search-results) .entry-summary, .wf-active .aboutme_widget #am_name{font-size:13.3px}.wf-active button, .wf-active button[disabled]:hover, .wf-active button[disabled]:focus, .wf-active input[type="button"], .wf-active input[type="button"][disabled]:hover, .wf-active input[type="button"][disabled]:focus, .wf-active input[type="reset"], .wf-active input[type="reset"][disabled]:hover, .wf-active input[type="reset"][disabled]:focus, .wf-active input[type="submit"], .wf-active input[type="submit"][disabled]:hover, .wf-active input[type="submit"][disabled]:focus, .wf-active .main-navigation, .wf-active .no-comments, .wf-active .tagcloud a, .wf-active .wp_widget_tag_cloud a, .wf-active .top_rated div > p, .wf-active .comments-area #respond .comment-form-fields p.comment-form-posting-as, .wf-active .comments-area #respond .comment-form-fields p.comment-form-log-out, .wf-active .comments-area #respond #comment-form-identity #comment-form-nascar p, .wf-active .comments-area #respond #comment-form-subscribe p, .wf-active .comments-area #respond p.form-submit input#comment-submit, .wf-active .comment-content p.comment-likes span.comment-like-feedback, .wf-active .jp-relatedposts-post-date, .wf-active .jp-relatedposts-post-context{font-family:"Libre Baskerville",serif}.wf-active .post-password-form label, .wf-active .comment-form label, .wf-active .entry-content .contact-form label, .wf-active .post-navigation .meta-nav, .wf-active .image-navigation, .wf-active .comment-navigation, .wf-active .menu-toggle, .wf-active .widget_recent_entries .post-date, .wf-active .widget_rss .rss-date, .wf-active .widget_rss cite, .wf-active .sticky-post, .wf-active .entry-footer, .wf-active .comment-metadata, .wf-active .pingback .edit-link, .wf-active .comment-reply-link, .wf-active .page-links, .wf-active .page-links a, .wf-active .page-links > span, .wf-active .pd-rating, .wf-active .entry-content .portfolio-entry-meta, .wf-active .entry-content #jp-relatedposts h3.jp-relatedposts-headline, .wf-active .hentry div.sharedaddy h3.sd-title, .wf-active .hentry h3.sd-title{font-family:"Libre Baskerville",serif;font-size:9.1px}.wf-active .pagination{font-family:"Libre Baskerville",serif;font-size:13.3px}.wf-active body:not(.logged-in) .site .skip-link{font-family:"Libre Baskerville",serif;font-size:9.8px}.wf-active .entry-content h1, .wf-active .entry-summary h1, .wf-active .comment-content h1, .wf-active .textwidget h1{font-size:19.6px}.wf-active .entry-content h2, .wf-active .entry-summary h2, .wf-active .comment-content h2, .wf-active .textwidget h2{font-size:16.1px}.wf-active blockquote cite, .wf-active blockquote small, .wf-active .entry-content h4, .wf-active .entry-content h5, .wf-active .entry-content h6, .wf-active .entry-summary h4, .wf-active .entry-summary h5, .wf-active .entry-summary h6, .wf-active .comment-content h4, .wf-active .comment-content h5, .wf-active .comment-content h6, .wf-active .textwidget h4, .wf-active .textwidget h5, .wf-active .textwidget h6, .wf-active .entry-content .author-title, .wf-active .comments-area #respond .form-submi{font-size:11.2px}.wf-active .site-description, .wf-active .author-bio, .wf-active .taxonomy-description, .wf-active .entry-caption, .wf-active .comment-notes, .wf-active .comment-awaiting-moderation, .wf-active .logged-in-as, .wf-active .form-allowed-tags, .wf-active .site-info, .wf-active .wp-caption .wp-caption-text, .wf-active .gallery-caption, .wf-active .entry-content .portfolio-entry-content p, .wf-active .entry-content .testimonial-entry-title, .wf-active .entry-content .testimonial-entry-content p, .wf-active .entry-content #jp-relatedposts .jp-relatedposts-items p, .wf-active .entry-content #jp-relatedposts .jp-relatedposts-items-visual h4.jp-relatedposts-post-title{font-family:"Libre Baskerville",serif;font-size:9.1px}@media screen and (min-width: 44.375em){.wf-active .menu-toggle{font-size:11.2px}}@media screen and (min-width: 56.875em){.wf-active .widget, .wf-active .widget blockquote cite, .wf-active .widget blockquote small, .wf-active .widget button, .wf-active .widget input, .wf-active .widget select, .wf-active .widget textarea, .wf-active .widget h4, .wf-active .widget h5, .wf-active .widget h6{font-size:9.1px}}@media screen and (min-width: 56.875em){.wf-active .widget h1{font-size:16.1px}}@media screen and (min-width: 56.875em){.wf-active .widget h2{font-size:13.3px}}@media screen and (min-width: 56.875em){.wf-active .widget h3, .wf-active .widget blockquote, .wf-active .aboutme_widget #am_name{font-size:11.2px}}@media screen and (min-width: 61.5625em){.wf-active .entry-content h1, .wf-active .entry-summary h1, .wf-active .comment-content h1{font-size:23.1px}}@media screen and (min-width: 61.5625em){.wf-active .entry-content h2, .wf-active .entry-summary h2, .wf-active .comment-content h2{font-size:19.6px}}@media screen and (min-width: 61.5625em){.wf-active .entry-content h3, .wf-active .entry-summary h3, .wf-active .comment-content h3, .wf-active {font-size:16.1px}}@media screen and (min-width: 61.5625em){.wf-active .entry-content h4, .wf-active .entry-content h5, .wf-active .entry-content h6, .wf-active .entry-summary h4, .wf-active .entry-summary h5, .wf-active .entry-summary h6, .wf-active .comment-content h4, .wf-active .comment-content h5, .wf-active .comment-content h6{font-size:13.3px}}@media screen and (min-width: 75em){.wf-active body:not(.search-results) .entry-summary, .wf-active body:not(.search-results) .entry-summary blockquote{font-size:16.1px}}@media screen and (min-width: 75em){.wf-active body:not(.search-results) .entry-summary blockquote cite, .wf-active body:not(.search-results) .entry-summary blockquote small{font-size:13.3px}}.wf-active .site-title, .wf-active .post-navigation .post-title, .wf-active .comments-title, .wf-active .comment-reply-title, .wf-active .page-title{font-family:"Libre Baskerville",serif;font-size:16.1px;font-style:normal;font-weight:400}.wf-active .widget .widget-title, .wf-active .entry-content .portfolio-entry-title{font-family:"Libre Baskerville",serif;font-size:11.2px;font-style:normal;font-weight:400}.wf-active .entry-title{font-family:"Libre Baskerville",serif;font-size:19.6px;font-style:normal;font-weight:400}.wf-active .format-aside .entry-title, .wf-active .format-image .entry-title, .wf-active .format-video .entry-title, .wf-active .format-quote .entry-title, .wf-active .format-gallery .entry-title, .wf-active .format-status .entry-title, .wf-active .format-link .entry-title, .wf-active .format-audio .entry-title, .wf-active .format-chat .entry-title{font-size:13.3px;font-style:normal;font-weight:400}@media screen and (min-width: 44.375em){.wf-active .site-title, .wf-active .post-navigation .post-title{font-size:19.6px;font-style:normal;font-weight:400}}@media screen and (min-width: 44.375em){.wf-active .entry-title{font-size:23.1px;font-style:normal;font-weight:400}}@media screen and (min-width: 61.5625em){.wf-active .entry-title{font-size:28px;font-style:normal;font-weight:400}}@media screen and (min-width: 61.5625em){.wf-active .format-aside .entry-title, .wf-active .format-image .entry-title, .wf-active .format-video .entry-title, .wf-active .format-quote .entry-title, .wf-active .format-gallery .entry-title, .wf-active .format-status .entry-title, .wf-active .format-link .entry-title, .wf-active .format-audio .entry-title, .wf-active .format-chat .entry-title{font-size:16.1px;font-style:normal;font-weight:400}}</style>
-<meta name='robots' content='max-image-preview:large' />
-<link rel='dns-prefetch' href='//s1.wp.com' />
-<link rel='dns-prefetch' href='//s2.wp.com' />
-<link rel='dns-prefetch' href='//s0.wp.com' />
-<link rel='dns-prefetch' href='//wordpress.com' />
-<link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//s.pubmine.com' />
-<link rel='dns-prefetch' href='//x.bidswitch.net' />
-<link rel='dns-prefetch' href='//static.criteo.net' />
-<link rel='dns-prefetch' href='//ib.adnxs.com' />
-<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
-<link rel='dns-prefetch' href='//bidder.criteo.com' />
-<link rel='dns-prefetch' href='//cas.criteo.com' />
-<link rel='dns-prefetch' href='//gum.criteo.com' />
-<link rel='dns-prefetch' href='//ads.pubmatic.com' />
-<link rel='dns-prefetch' href='//gads.pubmatic.com' />
-<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
-<link rel='dns-prefetch' href='//ad.doubleclick.net' />
-<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
-<link rel='dns-prefetch' href='//www.googletagservices.com' />
-<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
-<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
-<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
-<link rel='dns-prefetch' href='//a.teads.tv' />
-<link rel='dns-prefetch' href='//prebid.media.net' />
-<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
-<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
-<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
-<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
-<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
-<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
-<link rel='dns-prefetch' href='//u.openx.net' />
-<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
-<link rel="alternate" type="application/rss+xml" title="J.C L. Thành &raquo; Feed" href="https://vietnaminvestition.wordpress.com/feed/" />
-<link rel="alternate" type="application/rss+xml" title="J.C L. Thành &raquo; Comments Feed" href="https://vietnaminvestition.wordpress.com/comments/feed/" />
-	<script type="text/javascript">
-		/* <![CDATA[ */
-		function addLoadEvent(func) {
-			var oldonload = window.onload;
-			if (typeof window.onload != 'function') {
-				window.onload = func;
-			} else {
-				window.onload = function () {
-					oldonload();
-					func();
-				}
-			}
-		}
-		/* ]]> */
-	</script>
-	<script>
-window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s0.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1652185836h&ver=6.0.1-alpha-53658"}};
-/*! This file is auto-generated */
-!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
-</script>
-<style>
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 0.07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-	<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydU1tywyAMvFAxdTpJ89PpWcCoRAkYDxJxfPvKaeK8005/GIR2V09036kmtQwt61hUF4rHlnTfNSkqihhguLKqhuhF36dRsdRk7BiTWF8phNQ/w6/SFrKyxdoAwuYhwATHtgnFybM8aGdohSJAVcT2FrImzeLf2LSbLs/iNimD4hVEIHHHzrDmXjAD4Y4B2mfcHp0HJg1FvGmDoILpNUPsguGbKo4CNiR/kkjZGUfah2RNuMEeYb6IaSF7Neart/VbtahetS0Y3CjYbFRAm00eHgT9h9C+KXcbHMGhgSDusR9nhtQ9yBQDeNMMD+dzQRffuX1Bepz8PlMRA+7MmLIZUmHlM7o/138lkQ1j6x/N7LQtB9qsqpdVrQhl1qAybKuZdkg8IdR9obPtMU5qVdbkw6ea7B8S6jbxftGny697fFjg654+W+F9aGu7DERKzoglHv7DyPuMH/Vi/l7P5ovFcv0NOgeN9Q==?cssminify=yes' type='text/css' media='all' />
-<style id='wp-block-library-inline-css'>
-.has-text-align-justify {
-	text-align:justify;
-}
-</style>
-<style id='wpcom-admin-bar-inline-css'>
+J.C L. Thành
 
-			.admin-bar {
-				position: inherit !important;
-				top: auto !important;
-			}
-			.admin-bar .goog-te-banner-frame {
-				top: 32px !important
-			}
-			@media screen and (max-width: 782px) {
-				.admin-bar .goog-te-banner-frame {
-					top: 46px !important;
-				}
-			}
-			@media screen and (max-width: 480px) {
-				.admin-bar .goog-te-banner-frame {
-					position: absolute;
-				}
-			}
-		
-</style>
-<style id='global-styles-inline-css'>
-body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #fff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--dark-gray: #1a1a1a;--wp--preset--color--medium-gray: #686868;--wp--preset--color--light-gray: #e5e5e5;--wp--preset--color--blue-gray: #4d545c;--wp--preset--color--bright-blue: #007acc;--wp--preset--color--light-blue: #9adffd;--wp--preset--color--dark-brown: #402b30;--wp--preset--color--medium-brown: #774e24;--wp--preset--color--dark-red: #640c1f;--wp--preset--color--bright-red: #ff675f;--wp--preset--color--yellow: #ffef8e;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+B.B.A., MSc. ISM
+
+Home
+Client Results
+Contact
+J.C L. Thành
+Head of China Desk
+
+Ecovis Vietnam Law | Orient Counsel
+Ho Chi Minh City, Vietnam
+
+Language : English – Vietnamese -Mandarin Chinese – Min Nam Chinese
+
+The Embedded Approach – deeply embedded in the clients’ daily operations, often acting as though, and treated as if, a member of the company’s own senior management and integrated throughout the company’s key functions.
+
+Contact
+
+
+I have a long career – with over 30 years of experience – in managing businesses. Before relocating to Ho Chi Minh City in 2003 to take on the V-TRAC/Caterpillar’s Business Development work for the country of Vietnam, I had sixteen-plus years of experiences holding the positions of Director of Operations, Financial Controller as well as of starting up a computer business in the United States.
+
+Since then, I have worked across entire Vietnam assisting the FDIs in setting up and constructing factories, hiring and recruiting staffs, developing businesses, managing sales, overseeing operations, and implementing VAS accounting and ERP systems.
+
+Client Results
+Factory Start-up
+Assistant General Manager
+VN COURT CO., LTD – Steel Work Roller Industry 
+Ba Ria–Vung Tau, Vietnam
+
+Obtained a 100,000-ton chroming plant investment license – the only one of such scale granted in Bà Rịa–Vũng Tàu province to build the strategic alliance plant to service China Steel and Nippon Steel Vietnam Joint Stock Company (CSVC) in Vietnam.
+▼
+COURT HOLDINGS LIMITED operating in the United States, Canada, Europe, and Asia was founded in 1919 in Beamsville, Canada. Together with its subsidiaries, it involves in machining high tolerance parts and assemblies, electroplating, and developing finishes for steel work rolls for the steel and aluminum rolling mills. It operates 30 plants in 14 countries and 13 joint ventures & 3 strategic alliances worldwide supplying major steel & aluminum companies.
+Dinh.
+
+
+Land Liberation/Acquisition
+Manager Projects Office
+VIETORY CO., LTD. – Footwear Industry 
+Nam Dinh, Vietnam
+
+Acquired 10+ hectares of land at about 1/10 cost of the industrial zones saving the Group US$10+ million on land acquisition cost.
+▼
+DAH LIH PUH CO., LTD. is currently the single largest shoes maker for SKECHERS (NYSE: SKX), with an annual production capacity of more than 20 million pairs aiming to expand their manufacturing capacity from China to Vietnam’s northern provinces of Hai Duong (Vietory), Nam Dinh (VietPower) and Ninh Binh (Vietenergy). Three factories together occupy total about 35 hectares.
+
+
+Mergers & Acquisitions
+Assistant General Manager
+LONG VICTORY VN CO., LTD – Home Furnishing Industry 
+Binh Duong, Vietnam
+
+Planned and execute the merger of two FDI projects; revenue generated and tax saved from this transaction totaled more than US$1.1 million.
+▼
+LONGWAY INTERNATIONAL INC. operates in Taiwan, China and Vietnam with the headquarter located in Shenzhen City at a 22-story mansion, a property developed and constructed by the Company. Its new projects in Binh Duong, Vietnam cover an area of approximately 3 hectares.
+
+
+Inauguration of IPO Project
+Special Assistant to Chairman
+WEI XERN SIN VIETNAM JSC (WEICOVINA) – Construction & Rock Quarry Industry
+Quảng Nam, Vietnam
+
+Lay the ground work for WEICOVINA’s IPO endeavor.
+● Took advantage of the tax exemption incentive on capital surplus at the time to realize assets revaluation.
+● Cleaned up the financial statements and accounting records going back four years for the third-party audit and to start with and maintain a simple capital structure and an easily calculable market cap.
+● Engaged Ministry of Finance and HOSE to initiate the filing and garner support.
+● Involved in the scouting of core members of the IPO team.
+● Made recommendation to deploy an automated financial-reporting solution that allows for timely reporting required of a public company.
+● Prepared financial presentation for the private placement.
+
+WEICOVINA, with its own rock quarry license, is one of the biggest asphalt concrete factory and civil work contractor in central Vietnam. Key projects include: Dung Quat Oil Refinery, Doosan Vina, Thaco Auto Group Chu Lai, Chu Lai airport, Highway 1A, Quang Nam Central Hospital, Noi Bai – Lao Cai highway, and Tam Hiep port.
+
+
+Business Development
+Business Development & Key Account Sales Manager
+V-TRAC/CATERPILLAR – Generators, Earthmoving Equipment, and Mining Trucks 
+Ho Chi Minh City & Hanoi, Vietnam
+
+From 1994 until 2010 the Company won the highest market share in Asia for Caterpillar brand construction and mining equipment and made Vietnam the only Asian country in which Caterpillar has ever been the market leader.
+▼
+Caterpillar (NYSE:CAT) is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives.
+
+Highlight of projects:
+
+Bauxite exploration and mining project of Aluminum Corporation of China (Chalco) in Đăk Nông province.
+Chalco is China’s largest aluminum company that’s engaged in the whole value chain – exploration and mining, R&D, production, sales, international trade, logistics, and power generation.
+
+China Merchants Group’s (CMG) deep water sea port project in Bà Rịa – Vũng Tàu province
+China Merchant Group owns 50 ports in 19 countries and districts and is involved in a range of businesses such as port operations, general and bulk cargo transportation, container and shipping business, air cargo, and logistics park operation. CMG also owns the world’s largest fleet of VLOC and LNG; and is the biggest manufacturer of containers and airport facilities in the world. 
+
+Formosa Hà Tĩnh integrated steel plant project
+A USD 5.5 billion Ha Tinh mill operates Vietnam’s first blast-furnace integrated steel mill and output will be eventually ramping up to an annual 22 million tons or more, which makes it the largest in Southeast Asia and marks a significant step for Vietnam that imports most of its steel. 
+
+Foxconn’s Bắc Ninh hi-tech project
+Foxconn is to invest USD 5 billion in Vietnam in a series of projects in the hi-tech sector and supporting industries that would bring Vietnam into the its global supply chains. Foxconn kick-started its Vietnamese investment by opening two factories, a $160 million factory in Bac Ninh and a $200-million smartphone project in Vinh Phuc. It also planned facilities in Bac Giang, Hai Phong and Binh Dinh. 
+
+
+More for clients results…
+Business Management Experiences
+Financial Controller
+STEELER INC. – Light Gauge Steel Industry 
+Seattle, Washington, USA
+
+Formed in 1974 when the cold-formed steel framing was just beginning to develop, Steeler is now the oldest consecutively operating steel stud manufacturer in the United States. Operating 12 branches in the greater Seattle area, Portland, northern California and Vancouver. It is also the largest light gauge steel stud company in the US Northwest.
+▼
+Re-structure IT Systems
+_________
+
+Overhauled company’s computer network.
+Co-managed the IMPACT MRP II deployment project.
+
+Director of Operations
+SVA NETWORKS – Telecom equipment Industry 
+Plano, Texas, USA
+
+SHANGHAI SVA (GROUP) CO., LTD. was one of the largest electronic consortiums in China with annual sales of US$8.5 billion in year 2000 and employed over 20,000 employees around the globe. Aiming to pursue the goal as the industry leader in offering design services and backbone engineering, the company was established to design and build advanced high-performance ISP grade core switches, VoIP router, cable set-top boxes and other telecommunication products.
+▼
+Business development/Sourcing/Outsourcing
+_________
+
+Won set-top box business from Comcast – an American global telecommunications conglomerate, the largest broadcasting and cable television company in the world by revenue. 
+Managed outsourcing of prototype production so to expedite the various NPD projects.
+Managed operations other than engineering and component sourcing.
+
+Manager PC Business Unit
+Manager PC Business Unit 
+GIC – Warehouse Grocer Industry 
+Seattle, Washington, USA
+
+Golden Int’l is the oldest and largest Asian food importer & distributor in the US North West that specializes in supplying Asian foodstuffs to restaurants and mainstream food markets. GIC imports a wide variety of products from China, Hong Kong, Thailand, Singapore, Malaysia, Philippines, and Vietnam.
+▼
+Started up and run the PC business.
+_________
+
+Achieved five million dollars plus of revenue and were able to break even and make profits from the first year of operation.
+Accounts developed includes Microsoft, University of Washington, State of Washington, Yakima School District and etc.
+rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-audio{margin: 0 0 1em 0;}
 .wp-block-table > table{margin: 0 0 1em 0;}
 .wp-block-video{margin: 0 0 1em 0;}
