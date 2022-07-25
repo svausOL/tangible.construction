@@ -273,52 +273,7 @@ var actionbardata = {"siteID":"139346064","siteURL":"http:\/\/vietnaminvestition
 					</div>
 
 	
-<script type="text/javascript">
-/* <![CDATA[ */
-var clickDebugLink;
 
-jQuery(document).ready( function($) {
-	var single = false, w = 1000,
-		supe = false;
-
-	$(document.body).load(function(){ $('#wpadminbar img.grav-hashed').removeClass('grav-hashed'); }); // hack to hide the gravatar hovercard
-
-	if ( single && supe )
-		w = 1385;
-	else if ( supe )
-		w = 1200;
-
-	// debug bar extra
-	clickDebugLink = function( parent_id, obj ) {
-
-		$('#'+parent_id).children('div').hide();
-
-		document.getElementById( obj.href.substr( obj.href.indexOf( '#' ) + 1 ) ).style.display = 'block';
-		$( obj.href.substr( obj.href.indexOf( '#' ) ) ).show()
-
-		$(obj).parent().addClass('current').siblings('li').removeClass('current');
-
-		return false;
-	};
-
-	$( '#wpadminbar #wp-admin-bar-shortlink' ).click( function() {
-		$( '#adminbar-shortlink-input' ).select();
-	});
-
-	// skip tap-to-hover on site switcher for mobile
-	if ( 'ontouchstart' in window ) {
-		$('#wp-admin-bar-switch-site').on( 'touchstart', function( event ) {
-			if ( $( window ).width() > 782 ) {
-				return;
-			}
-			event.stopPropagation();
-			$( event.target ).first( 'a' ).click();
-		});
-	}
-
-});
-/* ]]> */
-</script>
 	<div class="wpcom-bubble action-bubble">
 		<div class="bubble-txt"></div>
 	</div>
