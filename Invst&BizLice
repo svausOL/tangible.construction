@@ -9,8 +9,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
-<link rel=File-List href="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/filelist.xml">
-<link rel=Edit-Time-Data href="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/editdata.mso">
+<link rel=File-List href="Invst&amp;BizLicense_files/filelist.xml">
+<link rel=Edit-Time-Data href="Invst&amp;BizLicense_files/editdata.mso">
 <!--[if !mso]>
 <style>
 v\:* {behavior:url(#default#VML);}
@@ -22,24 +22,25 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>su</o:Author>
   <o:LastAuthor>su</o:LastAuthor>
-  <o:Revision>15</o:Revision>
-  <o:TotalTime>362</o:TotalTime>
-  <o:Created>2023-03-14T10:24:00Z</o:Created>
-  <o:LastSaved>2023-03-14T12:37:00Z</o:LastSaved>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>372</o:TotalTime>
+  <o:Created>2023-03-14T12:47:00Z</o:Created>
+  <o:LastSaved>2023-03-14T12:47:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>137</o:Words>
-  <o:Characters>787</o:Characters>
-  <o:Lines>6</o:Lines>
-  <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>923</o:CharactersWithSpaces>
+  <o:Words>183</o:Words>
+  <o:Characters>1048</o:Characters>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1229</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=themeData href="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/themedata.thmx">
-<link rel=colorSchemeMapping href="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/colorschememapping.xml">
+<link rel=themeData href="Invst&amp;BizLicense_files/themedata.thmx">
+<link rel=colorSchemeMapping
+href="Invst&amp;BizLicense_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:Zoom>75</w:Zoom>
@@ -975,16 +976,16 @@ p.TableParagraph, li.TableParagraph, div.TableParagraph
 	mso-bidi-theme-font:minor-bidi;}
  /* Page Definitions */
  @page
-	{mso-footnote-separator:url("\6295\8CC7\53CA\71DF\696D\57F7\7167_files/header.htm") fs;
-	mso-footnote-continuation-separator:url("\6295\8CC7\53CA\71DF\696D\57F7\7167_files/header.htm") fcs;
-	mso-endnote-separator:url("\6295\8CC7\53CA\71DF\696D\57F7\7167_files/header.htm") es;
-	mso-endnote-continuation-separator:url("\6295\8CC7\53CA\71DF\696D\57F7\7167_files/header.htm") ecs;}
+	{mso-footnote-separator:url("Invst&BizLicense_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("Invst&BizLicense_files/header.htm") fcs;
+	mso-endnote-separator:url("Invst&BizLicense_files/header.htm") es;
+	mso-endnote-continuation-separator:url("Invst&BizLicense_files/header.htm") ecs;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
 	margin:72.0pt 45.35pt 72.0pt 144.0pt;
 	mso-header-margin:35.45pt;
 	mso-footer-margin:35.45pt;
-	mso-footer:url("\6295\8CC7\53CA\71DF\696D\57F7\7167_files/header.htm") f1;
+	mso-footer:url("Invst&BizLicense_files/header.htm") f1;
 	mso-paper-source:0;}
 div.WordSection1
 	{page:WordSection1;}
@@ -1214,10 +1215,9 @@ text-underline:none'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  href="https://drive.google.com/file/d/1y2rRoaSyR0LsG8CtTuSNXsMCgqZ6aCDi/view?usp=share_link"
  style='width:70.8pt;height:49.8pt;visibility:visible;mso-wrap-style:square'
  o:button="t">
- <v:imagedata src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image001.png"
-  o:title="hienico"/>
+ <v:imagedata src="Invst&amp;BizLicense_files/image001.png" o:title="hienico"/>
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
-border=0 width=118 height=83 src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image002.png"
+border=0 width=118 height=83 src="Invst&amp;BizLicense_files/image002.png"
 alt=hienico v:shapes="Picture_x0020_1"></span><![endif]></span></a><b><span
 style='font-size:15.0pt;mso-ascii-font-family:Calibri;mso-hansi-font-family:
 Calibri;mso-bidi-font-family:Calibri;color:black'>CTY TNHH MTV HI&#7874;N NHIÊN
@@ -1249,10 +1249,9 @@ color:windowtext;mso-no-proof:yes;text-decoration:none;text-underline:none'><!--
  id="Picture_x0020_6" o:spid="_x0000_i1029" type="#_x0000_t75"
  href="index.htm" style='width:27.6pt;height:27.6pt;visibility:visible;
  mso-wrap-style:square' o:button="t">
- <v:imagedata src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image005.png"
-  o:title=""/>
+ <v:imagedata src="Invst&amp;BizLicense_files/image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
-border=0 width=46 height=46 src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image005.png"
+border=0 width=46 height=46 src="Invst&amp;BizLicense_files/image003.png"
 v:shapes="Picture_x0020_6"></span><![endif]></span></b></a><b><span
 style='font-size:12.0pt;font-family:"PMingLiU",serif;mso-bidi-font-family:PMingLiU'><o:p></o:p></span></b></p>
 
@@ -1467,10 +1466,9 @@ font-family:"PMingLiU",serif;mso-bidi-font-family:PMingLiU'><o:p>&nbsp;</o:p></s
    style='width:40.8pt;height:40.8pt;visibility:visible;mso-wrap-style:square'
    o:button="t">
    <v:fill o:detectmouseclick="t"/>
-   <v:imagedata src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image004.png"
-    o:title=""/>
+   <v:imagedata src="Invst&amp;BizLicense_files/image004.png" o:title=""/>
   </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
-  border=0 width=68 height=68 src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image004.png"
+  border=0 width=68 height=68 src="Invst&amp;BizLicense_files/image004.png"
   v:shapes="Picture_x0020_13"></span><![endif]></span></b></a></span><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
   font-family:"Microsoft YaHei UI Light",sans-serif;mso-fareast-font-family:
@@ -1483,14 +1481,13 @@ font-family:"PMingLiU",serif;mso-bidi-font-family:PMingLiU'><o:p>&nbsp;</o:p></s
   -.15pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_23"
    o:spid="_x0000_i1027" type="#_x0000_t75" style='width:244.8pt;height:378pt;
    visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image007.png"
-    o:title=""/>
+   <v:imagedata src="Invst&amp;BizLicense_files/image005.png" o:title=""/>
   </v:shape><![endif]--><![if !vml]><img border=0 width=408 height=630
-  src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image007.png"
-  v:shapes="Picture_x0020_23"><![endif]></span></b><b style='mso-bidi-font-weight:
-  normal'><span lang=EN-US style='font-size:15.0pt;font-family:"Microsoft YaHei UI Light",sans-serif;
-  mso-fareast-font-family:PMingLiU;mso-bidi-font-family:PMingLiU;letter-spacing:
-  -.15pt;mso-ansi-language:EN-US'><o:p></o:p></span></b></p>
+  src="Invst&amp;BizLicense_files/image005.png" v:shapes="Picture_x0020_23"><![endif]></span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:15.0pt;
+  font-family:"Microsoft YaHei UI Light",sans-serif;mso-fareast-font-family:
+  PMingLiU;mso-bidi-font-family:PMingLiU;letter-spacing:-.15pt;mso-ansi-language:
+  EN-US'><o:p></o:p></span></b></p>
   <p class=MsoNormal style='margin-right:99.2pt;mso-margin-bottom-alt:auto;
   line-height:normal'><b style='mso-bidi-font-weight:normal'><span lang=EN-US
   style='font-size:15.0pt;font-family:"Microsoft YaHei UI Light",sans-serif;
@@ -1515,10 +1512,9 @@ font-family:"PMingLiU",serif;mso-bidi-font-family:PMingLiU'><o:p>&nbsp;</o:p></s
    style='width:40.8pt;height:40.8pt;visibility:visible;mso-wrap-style:square'
    o:button="t">
    <v:fill o:detectmouseclick="t"/>
-   <v:imagedata src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image004.png"
-    o:title=""/>
+   <v:imagedata src="Invst&amp;BizLicense_files/image004.png" o:title=""/>
   </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
-  border=0 width=68 height=68 src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image004.png"
+  border=0 width=68 height=68 src="Invst&amp;BizLicense_files/image004.png"
   v:shapes="Picture_x0020_12"></span><![endif]></span></b></a></span><b
   style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
   font-family:"Microsoft YaHei UI Light",sans-serif;mso-fareast-font-family:
@@ -1531,14 +1527,13 @@ font-family:"PMingLiU",serif;mso-bidi-font-family:PMingLiU'><o:p>&nbsp;</o:p></s
   -.15pt;mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_24"
    o:spid="_x0000_i1025" type="#_x0000_t75" style='width:261.6pt;height:365.4pt;
    visibility:visible;mso-wrap-style:square'>
-   <v:imagedata src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image009.png"
-    o:title=""/>
+   <v:imagedata src="Invst&amp;BizLicense_files/image006.png" o:title=""/>
   </v:shape><![endif]--><![if !vml]><img border=0 width=436 height=609
-  src="&#25237;&#36039;&#21450;&#29151;&#26989;&#22519;&#29031;_files/image009.png"
-  v:shapes="Picture_x0020_24"><![endif]></span></b><b style='mso-bidi-font-weight:
-  normal'><span lang=EN-US style='font-size:14.0pt;font-family:"Microsoft YaHei UI Light",sans-serif;
-  mso-fareast-font-family:PMingLiU;mso-bidi-font-family:PMingLiU;letter-spacing:
-  -.15pt;mso-ansi-language:EN-US'><o:p></o:p></span></b></p>
+  src="Invst&amp;BizLicense_files/image006.png" v:shapes="Picture_x0020_24"><![endif]></span></b><b
+  style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:14.0pt;
+  font-family:"Microsoft YaHei UI Light",sans-serif;mso-fareast-font-family:
+  PMingLiU;mso-bidi-font-family:PMingLiU;letter-spacing:-.15pt;mso-ansi-language:
+  EN-US'><o:p></o:p></span></b></p>
   </td>
  </tr>
 </table>
