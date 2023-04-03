@@ -1,0 +1,33 @@
+.location-item {
+  flex: 1;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: row;
+}
+.location-background {
+  flex: 1;
+  height: 400px;
+  object-fit: cover;
+}
+.location-content {
+  top: 0px;
+  flex: 1;
+  left: 0px;
+  right: 0px;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  bottom: 0px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.location-root-class-name {
+  align-self: center;
+}
+.location-root-class-name1 {
+  align-self: center;
+}
