@@ -1,0 +1,161 @@
+.kenda-3-article {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: auto;
+  height: 1294px;
+  display: flex;
+  position: relative;
+  max-width: auto;
+  align-items: center;
+  flex-direction: column;
+}
+.kenda-3-kenda1 {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  object-fit: cover;
+  margin-left: 0px;
+}
+.kenda-3-content {
+  gap: var(--dl-space-space-threeunits);
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.kenda-3-link {
+  display: contents;
+}
+.kenda-3-heading {
+  gap: var(--dl-space-space-unit);
+  width: 1193px;
+  height: 798px;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+}
+.kenda-3-header {
+  color: var(--dl-color-gray-black);
+  width: auto;
+  font-size: 54px;
+  max-width: auto;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Cormorant Infant;
+  font-weight: 700;
+  line-height: 54px;
+}
+.kenda-3-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kenda-3-kendalogo {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  object-fit: cover;
+  margin-left: 0px;
+}
+.kenda-3-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.kenda-3-header1 {
+  color: var(--dl-color-gray-black);
+  width: auto;
+  font-size: 36px;
+  max-width: 800px;
+  align-self: center;
+  font-style: normal;
+  font-family: Cormorant Infant;
+  font-weight: 700;
+  line-height: 36px;
+}
+.kenda-3-before {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  text-align: center;
+}
+@media(max-width: 991px) {
+  .kenda-3-kenda1 {
+    width: 100%;
+    height: auto;
+    margin-left: 0px;
+  }
+  .kenda-3-kendalogo {
+    width: 100%;
+    height: auto;
+    margin-left: 0px;
+  }
+}
+@media(max-width: 767px) {
+  .kenda-3-kenda1 {
+    width: 100%;
+    align-self: center;
+  }
+  .kenda-3-content {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .kenda-3-header {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .kenda-3-kendalogo {
+    width: 100%;
+    align-self: center;
+  }
+  .kenda-3-header1 {
+    font-size: 20px;
+    line-height: 22px;
+  }
+}
+@media(max-width: 479px) {
+  .kenda-3-article {
+    height: 1008px;
+    justify-content: center;
+  }
+  .kenda-3-kenda1 {
+    width: 100%;
+    height: auto;
+    align-self: center;
+    margin-left: 0px;
+  }
+  .kenda-3-content {
+    align-items: center;
+  }
+  .kenda-3-heading {
+    height: 765px;
+    align-items: center;
+    padding-bottom: 0px;
+  }
+  .kenda-3-kendalogo {
+    width: 100%;
+    height: auto;
+    align-self: flex-start;
+    margin-left: 0px;
+  }
+  .kenda-3-header1 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 22px;
+  }
+  .kenda-3-before {
+    width: 430px;
+  }
+}
