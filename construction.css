@@ -152,7 +152,7 @@
   align-items: center;
   justify-content: center;
 }
-.construction-icon02 {
+.construction-icon2 {
   width: var(--dl-size-size-small);
   height: var(--dl-size-size-small);
 }
@@ -527,23 +527,6 @@
   text-decoration: none;
   background-color: transparent;
 }
-.construction-icon-group {
-  display: flex;
-}
-.construction-icon04 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-  margin-right: var(--dl-space-space-twounits);
-}
-.construction-icon06 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-  margin-right: var(--dl-space-space-twounits);
-}
-.construction-icon08 {
-  width: var(--dl-size-size-xsmall);
-  height: var(--dl-size-size-xsmall);
-}
 .construction-links1 {
   gap: var(--dl-space-space-threeunits);
   width: 901px;
@@ -769,7 +752,7 @@
   display: inline-flex;
   align-items: center;
   padding-top: var(--dl-space-space-halfunit);
-  border-color: var(--dl-color-gray-white);
+  border-color: var(--dl-color-gray-black);
   border-width: 1px;
   padding-left: var(--dl-space-space-unit);
   border-radius: var(--dl-radius-radius-radius2);
@@ -933,13 +916,13 @@
   font-size: 90px;
   font-style: normal;
   margin-top: 160px;
-  text-align: left;
+  text-align: center;
   font-family: Cormorant Infant;
   font-weight: 800;
-  line-height: 60px;
+  line-height: 70px;
   padding-top: 160px;
 }
-.construction-kenda-3 {
+.construction-kenda {
   gap: var(--dl-space-space-fiveunits);
   width: 100%;
   display: flex;
@@ -1015,13 +998,13 @@
 }
 .construction-image01 {
   width: 100%;
-  height: auto;
+  height: 100%;
   align-self: center;
   object-fit: cover;
 }
 .construction-image02 {
   width: 100%;
-  height: 100%;
+  height: auto;
   align-self: center;
   object-fit: cover;
 }
@@ -1287,9 +1270,9 @@
   object-fit: cover;
 }
 .construction-find {
-  gap: var(--dl-space-space-threeunits);
+  gap: var(--dl-space-space-unit);
   width: 100%;
-  height: 422px;
+  height: auto;
   display: flex;
   align-items: center;
   padding-top: var(--dl-space-space-fourunits);
@@ -1327,31 +1310,58 @@
   font-family: Karla;
   line-height: 24px;
 }
-.construction-text56 {
+.construction-text58 {
   text-decoration: underline;
 }
-.construction-text60 {
+.construction-text62 {
   text-decoration: underline;
 }
-.construction-find1 {
+.construction-contact-link {
+  gap: var(--dl-space-space-unit);
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 900px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.construction-email {
   font-style: normal;
+  text-align: center;
   transition: 0.3s;
   font-weight: 500;
   padding-top: var(--dl-space-space-unit);
   border-width: 0px;
   padding-left: var(--dl-space-space-oneandhalfunits);
-  border-radius: 56px;
+  border-radius: 16px;
   padding-right: var(--dl-space-space-oneandhalfunits);
   padding-bottom: var(--dl-space-space-unit);
   text-decoration: none;
   background-color: rgb(250, 216, 122);
 }
-.construction-find1:hover {
+.construction-email:hover {
+  opacity: 0.5;
+}
+.construction-call {
+  font-style: normal;
+  text-align: center;
+  transition: 0.3s;
+  font-weight: 500;
+  padding-top: var(--dl-space-space-unit);
+  border-width: 0px;
+  padding-left: var(--dl-space-space-oneandhalfunits);
+  border-radius: 16px;
+  padding-right: var(--dl-space-space-oneandhalfunits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: rgb(250, 216, 122);
+}
+.construction-call:hover {
   opacity: 0.5;
 }
 .construction-footer {
   width: 100%;
-  height: auto;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -1521,6 +1531,9 @@
   text-decoration: none;
 }
 @media(max-width: 991px) {
+  .construction-main {
+    padding-top: var(--dl-space-space-twounits);
+  }
   .construction-video {
     height: auto;
     position: static;
@@ -1535,14 +1548,31 @@
   .construction-navbar {
     height: auto;
     align-items: flex-start;
+    padding-top: 0px;
   }
   .construction-logo {
     left: 0px;
     bottom: 3px;
-    height: var(--dl-size-size-small);
+  }
+  .construction-menu {
+    top: var(--dl-space-space-oneandhalfunits);
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    align-self: flex-start;
+    margin-top: 0px;
+    align-items: flex-end;
   }
   .construction-links {
     gap: var(--dl-space-space-oneandhalfunits);
+    margin-top: var(--dl-space-space-twounits);
+  }
+  .construction-hamburger {
+    margin-top: var(--dl-space-space-twounits);
+  }
+  .construction-mobile-menu {
+    width: 100%;
+    height: 100vh;
   }
   .construction-tangible-logo {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
@@ -1650,17 +1680,19 @@
     height: auto;
     max-width: auto;
     align-items: flex-start;
-    padding-top: var(--dl-space-space-twounits);
+    padding-top: var(--dl-space-space-sixunits);
     padding-bottom: var(--dl-space-space-fourunits);
   }
   .construction-header {
     width: auto;
+    font-size: 60px;
     align-self: center;
-    margin-top: var(--dl-space-space-halfunit);
+    margin-top: var(--dl-space-space-twounits);
     text-align: center;
-    padding-top: var(--dl-space-space-halfunit);
+    line-height: 50px;
+    padding-top: 0px;
   }
-  .construction-kenda-3 {
+  .construction-kenda {
     gap: var(--dl-space-space-twounits);
     width: auto;
     align-items: flex-start;
@@ -1721,8 +1753,17 @@
   .construction-caption3 {
     height: auto;
   }
+  .construction-find {
+    border-radius: var(--dl-radius-radius-radius4);
+  }
   .construction-header5 {
     color: rgb(255, 255, 255);
+  }
+  .construction-email {
+    border-radius: 90px;
+  }
+  .construction-call {
+    border-radius: 90px;
   }
   .construction-footer {
     padding-left: var(--dl-space-space-sixunits);
@@ -1759,6 +1800,7 @@
 }
 @media(max-width: 767px) {
   .construction-main {
+    padding-top: var(--dl-space-space-twounits);
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
@@ -1775,21 +1817,32 @@
     justify-content: flex-start;
   }
   .construction-navbar {
-    padding-top: var(--dl-space-space-twounits);
-    padding-bottom: var(--dl-space-space-twounits);
+    height: auto;
+    align-items: flex-start;
+    padding-top: 0px;
+    padding-bottom: 0px;
   }
   .construction-logo {
     left: 0px;
     bottom: 7px;
-    height: var(--dl-size-size-small);
+    height: 72px;
     position: absolute;
     align-self: flex-start;
   }
   .construction-menu {
     display: flex;
+    margin-top: 0px;
+    padding-top: 0px;
   }
   .construction-links {
     display: none;
+  }
+  .construction-hamburger {
+    margin-top: var(--dl-space-space-twounits);
+  }
+  .construction-mobile-menu {
+    width: 100%;
+    height: 100vh;
   }
   .construction-tangible-logo1 {
     height: var(--dl-size-size-small);
@@ -1871,18 +1924,17 @@
   }
   .construction-reference-projects {
     height: auto;
-    padding-top: var(--dl-space-space-unit);
+    padding-top: var(--dl-space-space-sixunits);
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
     padding-bottom: var(--dl-space-space-fourunits);
   }
   .construction-header {
-    font-size: 40px;
     align-self: center;
-    margin-top: 0px;
+    margin-top: var(--dl-space-space-twounits);
     text-align: center;
     line-height: 40px;
-    padding-top: var(--dl-space-space-twounits);
+    padding-top: 0px;
   }
   .construction-content1 {
     gap: var(--dl-space-space-oneandhalfunits);
@@ -1912,7 +1964,7 @@
     font-size: 32px;
     line-height: 30px;
   }
-  .construction-text38 {
+  .construction-text40 {
     font-size: 32px;
     line-height: 30px;
   }
@@ -1957,7 +2009,7 @@
     font-size: 32px;
     line-height: 30px;
   }
-  .construction-text50 {
+  .construction-text52 {
     font-size: 32px;
     line-height: 30px;
   }
@@ -1987,6 +2039,9 @@
     font-size: 16px;
     line-height: 24px;
   }
+  .construction-contact-link {
+    gap: var(--dl-space-space-unit);
+  }
   .construction-content5 {
     width: 650px;
     padding-left: var(--dl-space-space-oneandhalfunits);
@@ -2003,6 +2058,9 @@
   }
 }
 @media(max-width: 479px) {
+  .construction-main {
+    padding-top: var(--dl-space-space-oneandhalfunits);
+  }
   .construction-video {
     height: auto;
   }
@@ -2015,28 +2073,21 @@
   }
   .construction-navbar {
     height: auto;
+    padding: var(--dl-space-space-halfunit);
     position: 0px;
-    padding-top: 0px;
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-    padding-bottom: var(--dl-space-space-unit);
   }
   .construction-logo {
     top: 0px;
     left: 0px;
-    width: auto;
-    height: var(--dl-size-size-small);
+    height: 72px;
     position: absolute;
     padding-left: 0px;
   }
   .construction-hamburger {
-    width: auto;
-    height: auto;
-    align-self: flex-start;
-    padding-top: var(--dl-space-space-unit);
-    border-color: var(--dl-color-gray-white);
+    margin-top: 0px;
   }
   .construction-mobile-menu {
+    width: 100%;
     padding: 16px;
   }
   .construction-nav {
@@ -2107,11 +2158,12 @@
   .construction-reference-projects {
     width: 100%;
     height: auto;
+    margin-top: var(--dl-space-space-sixunits);
     align-items: center;
-    padding-top: var(--dl-space-space-fourunits);
+    padding-top: 0px;
     padding-left: 12px;
     padding-right: 12px;
-    padding-bottom: var(--dl-space-space-fourunits);
+    padding-bottom: 0px;
   }
   .construction-header {
     color: var(--dl-color-gray-black);
@@ -2125,7 +2177,7 @@
     line-height: 31px;
     padding-top: 0px;
   }
-  .construction-kenda-3 {
+  .construction-kenda {
     padding-top: 0px;
   }
   .construction-heading {
@@ -2254,16 +2306,27 @@
   .construction-caption4 {
     color: rgb(255, 255, 255);
   }
-  .construction-text56 {
+  .construction-text58 {
     text-decoration: underline;
   }
-  .construction-text60 {
+  .construction-text62 {
     text-decoration: underline;
+  }
+  .construction-contact-link {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .construction-content5 {
+    width: 450px;
   }
   .construction-footer1 {
-    width: 308px;
+    width: 300px;
   }
   .construction-caption5 {
     font-size: 9px;
+  }
+  .construction-links2 {
+    width: auto;
+    align-self: flex-start;
+    padding-left: var(--dl-space-space-twounits);
   }
 }
