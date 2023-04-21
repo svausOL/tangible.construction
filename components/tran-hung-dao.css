@@ -1,0 +1,247 @@
+.tran-hung-dao-article {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  max-width: auto;
+  align-items: center;
+  flex-direction: column;
+}
+.tran-hung-dao-image {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  object-fit: cover;
+}
+.tran-hung-dao-content {
+  gap: var(--dl-space-space-threeunits);
+  width: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.tran-hung-dao-link {
+  display: contents;
+}
+.tran-hung-dao-heading {
+  gap: var(--dl-space-space-unit);
+  width: auto;
+  display: flex;
+  align-self: center;
+  align-items: flex-start;
+  padding-left: var(--dl-space-space-halfunit);
+  padding-right: var(--dl-space-space-halfunit);
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+}
+.tran-hung-dao-image1 {
+  width: 100%;
+  height: auto;
+  align-self: center;
+  object-fit: cover;
+}
+.tran-hung-dao-image2 {
+  width: 80%;
+  height: auto;
+  align-self: center;
+  object-fit: cover;
+}
+.tran-hung-dao-header {
+  color: var(--dl-color-gray-black);
+  width: auto;
+  font-size: 54px;
+  max-width: auto;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Cormorant Infant;
+  font-weight: 700;
+  line-height: 54px;
+}
+.tran-hung-dao-header1 {
+  color: var(--dl-color-gray-black);
+  width: auto;
+  font-size: 36px;
+  max-width: 800px;
+  align-self: center;
+  font-style: normal;
+  text-align: center;
+  font-family: Cormorant Infant;
+  font-weight: 700;
+  line-height: 36px;
+}
+.tran-hung-dao-tran-hung-dao-2 {
+  gap: 120px;
+  width: auto;
+  display: flex;
+  margin-top: var(--dl-space-space-fourunits);
+  align-items: center;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.tran-hung-dao-content1 {
+  gap: var(--dl-space-space-threeunits);
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.tran-hung-dao-heading1 {
+  gap: var(--dl-space-space-oneandhalfunits);
+  width: auto;
+  display: flex;
+  max-width: 500px;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.tran-hung-dao-header2 {
+  color: rgb(53, 43, 42);
+  font-size: 60px;
+  font-style: normal;
+  text-align: left;
+  font-family: Cormorant Infant;
+  font-weight: 700;
+  line-height: 60px;
+}
+.tran-hung-dao-caption {
+  color: rgb(53, 43, 42);
+  width: auto;
+  height: auto;
+  font-size: 18px;
+  max-width: 600px;
+  text-align: left;
+  font-family: Karla;
+  line-height: 27px;
+}
+.tran-hung-dao-image3 {
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-direction: row;
+  justify-content: center;
+}
+.tran-hung-dao-image4 {
+  width: 540px;
+  height: 540px;
+  object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 991px) {
+  .tran-hung-dao-image {
+    width: 100%;
+    margin-left: 0px;
+  }
+  .tran-hung-dao-image1 {
+    width: 80%;
+  }
+  .tran-hung-dao-image2 {
+    width: 80%;
+  }
+  .tran-hung-dao-tran-hung-dao-2 {
+    gap: var(--dl-space-space-twounits);
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .tran-hung-dao-caption {
+    height: auto;
+  }
+}
+@media(max-width: 767px) {
+  .tran-hung-dao-image {
+    width: 85%;
+    margin-left: 0px;
+  }
+  .tran-hung-dao-content {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .tran-hung-dao-image1 {
+    width: 70%;
+  }
+  .tran-hung-dao-image2 {
+    width: 70%;
+  }
+  .tran-hung-dao-header {
+    font-size: 32px;
+    line-height: 38px;
+  }
+  .tran-hung-dao-header1 {
+    font-size: 20px;
+    line-height: 22px;
+  }
+  .tran-hung-dao-content1 {
+    gap: var(--dl-space-space-oneandhalfunits);
+  }
+  .tran-hung-dao-heading1 {
+    gap: var(--dl-space-space-unit);
+  }
+  .tran-hung-dao-header2 {
+    font-size: 32px;
+    line-height: 30px;
+  }
+  .tran-hung-dao-caption {
+    height: auto;
+    font-size: 16px;
+  }
+}
+@media(max-width: 479px) {
+  .tran-hung-dao-article {
+    height: auto;
+  }
+  .tran-hung-dao-image {
+    width: 100%;
+    height: var(--dl-size-size-large);
+    align-self: center;
+    margin-left: 0px;
+  }
+  .tran-hung-dao-content {
+    align-items: center;
+  }
+  .tran-hung-dao-heading {
+    align-items: center;
+  }
+  .tran-hung-dao-image1 {
+    width: 80%;
+    height: auto;
+  }
+  .tran-hung-dao-image2 {
+    width: 80%;
+    height: auto;
+  }
+  .tran-hung-dao-header1 {
+    font-size: 20px;
+    text-align: center;
+    line-height: 22px;
+  }
+  .tran-hung-dao-heading1 {
+    height: auto;
+    padding-right: 0px;
+  }
+  .tran-hung-dao-caption {
+    height: auto;
+    padding-right: var(--dl-space-space-fourunits);
+  }
+  .tran-hung-dao-image4 {
+    width: 340PX;
+    height: auto;
+  }
+}
