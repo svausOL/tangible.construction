@@ -926,13 +926,13 @@
   color: var(--dl-color-gray-white);
   width: auto;
   height: auto;
-  font-size: 63px;
+  font-size: 54px;
   max-width: auto;
-  margin-top: 120px;
+  margin-top: 150px;
   text-align: center;
   font-family: Cormorant Infant;
   font-weight: 700;
-  line-height: 63px;
+  line-height: 54px;
   padding-top: 0px;
   padding-bottom: var(--dl-space-space-unit);
 }
@@ -946,7 +946,7 @@
   text-align: center;
   font-family: Cormorant Infant;
   font-weight: 800;
-  line-height: 26px;
+  line-height: 36px;
   padding-top: 0px;
 }
 .index-vn-copy-about-tangible {
@@ -1071,16 +1071,16 @@
   padding-bottom: 0px;
   border-top-width: 0px;
 }
-.index-vn-copy-text005 {
+.index-vn-copy-text008 {
   font-size: 36px;
   font-family: Cormorant Infant;
   font-weight: 600;
 }
-.index-vn-copy-text006 {
+.index-vn-copy-text009 {
   font-style: normal;
   font-family: Verdana;
 }
-.index-vn-copy-text007 {
+.index-vn-copy-text010 {
   font-style: normal;
 }
 .index-vn-copy-caption02 {
@@ -1104,74 +1104,6 @@
   padding-bottom: var(--dl-space-space-halfunit);
   border-top-width: 0px;
 }
-.index-vn-copy-text008 {
-  font-family: Cormorant Infant;
-}
-.index-vn-copy-text009 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text010 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text011 {
-  font-family: Cormorant Infant;
-}
-.index-vn-copy-text012 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text013 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text014 {
-  font-family: Cormorant Infant;
-}
-.index-vn-copy-text015 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text016 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text017 {
-  font-family: Cormorant Infant;
-}
-.index-vn-copy-text018 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text019 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text020 {
-  font-family: Cormorant Infant;
-}
-.index-vn-copy-text021 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text022 {
-  font-size: 24px;
-  font-family: Cormorant Infant;
-  line-height: 30px;
-}
-.index-vn-copy-text023 {
-  font-family: Cormorant Infant;
-}
 .index-vn-copy-our-services {
   gap: 220px;
   width: 100%;
@@ -1192,7 +1124,7 @@
 }
 .index-vn-copy-caption03 {
   color: var(--dl-color-gray-black);
-  width: 742px;
+  width: auto;
   height: 152px;
   font-size: 72px;
   max-width: 900px;
@@ -2043,10 +1975,10 @@
   font-family: Karla;
   line-height: 24px;
 }
-.index-vn-copy-text115 {
+.index-vn-copy-text109 {
   text-decoration: underline;
 }
-.index-vn-copy-text119 {
+.index-vn-copy-text113 {
   text-decoration: underline;
 }
 .index-vn-copy-contact-link {
@@ -2447,7 +2379,13 @@
     padding-bottom: var(--dl-space-space-fourunits);
   }
   .index-vn-copy-caption03 {
+    color: var(--dl-color-gray-black);
     height: auto;
+    font-size: 34px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 800;
+    line-height: 34px;
   }
   .index-vn-copy-highlight {
     gap: var(--dl-space-space-twounits);
@@ -2457,47 +2395,96 @@
   .index-vn-copy-content02 {
     height: auto;
   }
+  .index-vn-copy-header {
+    color: var(--dl-color-gray-black);
+    font-size: 32px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 32px;
+  }
   .index-vn-copy-caption04 {
     height: auto;
+    font-size: 16px;
   }
   .index-vn-copy-highlight1 {
     gap: var(--dl-space-space-twounits);
     align-items: flex-start;
     flex-direction: column-reverse;
   }
+  .index-vn-copy-header01 {
+    font-size: 32px;
+    line-height: 32px;
+  }
+  .index-vn-copy-caption05 {
+    font-size: 16px;
+  }
   .index-vn-copy-highlight2 {
     gap: var(--dl-space-space-twounits);
     align-items: flex-start;
     flex-direction: column;
   }
+  .index-vn-copy-header02 {
+    font-size: 32px;
+    line-height: 32px;
+  }
   .index-vn-copy-caption06 {
     height: auto;
+    font-size: 16px;
   }
   .index-vn-copy-highlight3 {
     gap: var(--dl-space-space-twounits);
     align-items: flex-start;
     flex-direction: column-reverse;
   }
+  .index-vn-copy-header03 {
+    color: var(--dl-color-gray-black);
+    font-size: 32px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 32px;
+  }
+  .index-vn-copy-caption07 {
+    font-size: 16px;
+  }
   .index-vn-copy-highlight4 {
     gap: var(--dl-space-space-twounits);
     align-items: flex-start;
     flex-direction: column;
   }
+  .index-vn-copy-header04 {
+    font-size: 32px;
+    line-height: 32px;
+  }
   .index-vn-copy-caption08 {
     height: auto;
+    font-size: 16px;
   }
   .index-vn-copy-highlight5 {
     gap: var(--dl-space-space-twounits);
     align-items: flex-start;
     flex-direction: column-reverse;
   }
+  .index-vn-copy-header05 {
+    font-size: 32px;
+    line-height: 32px;
+  }
+  .index-vn-copy-caption09 {
+    font-size: 16px;
+  }
   .index-vn-copy-highlight6 {
     gap: var(--dl-space-space-twounits);
     align-items: flex-start;
     flex-direction: column;
   }
+  .index-vn-copy-header06 {
+    font-size: 32px;
+    line-height: 32px;
+  }
   .index-vn-copy-caption10 {
     height: auto;
+    font-size: 16px;
   }
   .index-vn-copy-certificates {
     height: auto;
@@ -2757,7 +2744,7 @@
     text-align: left;
     font-family: Cormorant Infant;
     font-weight: 600;
-    line-height: 28px;
+    line-height: 30px;
     padding-top: var(--dl-space-space-threeunits);
     padding-bottom: var(--dl-space-space-threeunits);
   }
@@ -2786,16 +2773,75 @@
   .index-vn-copy-main1 {
     height: auto;
   }
+  .index-vn-copy-caption02 {
+    color: var(--dl-color-gray-black);
+    font-size: 24px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .index-vn-copy-text012 {
+    color: var(--dl-color-gray-black);
+    font-size: 24px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .index-vn-copy-text013 {
+    font-family: Cormorant Infant;
+  }
+  .index-vn-copy-text015 {
+    color: var(--dl-color-gray-black);
+    font-size: 24px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .index-vn-copy-text016 {
+    font-family: Cormorant Infant;
+  }
+  .index-vn-copy-text018 {
+    font-family: Cormorant Infant;
+  }
+  .index-vn-copy-text019 {
+    color: var(--dl-color-gray-black);
+    font-size: 24px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .index-vn-copy-text021 {
+    color: var(--dl-color-gray-black);
+    font-size: 24px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 400;
+    line-height: 30px;
+  }
+  .index-vn-copy-text022 {
+    font-family: Cormorant Infant;
+  }
+  .index-vn-copy-text024 {
+    font-family: Cormorant Infant;
+  }
   .index-vn-copy-our-services {
     height: auto;
     padding-left: var(--dl-space-space-oneandhalfunits);
     padding-right: var(--dl-space-space-oneandhalfunits);
   }
   .index-vn-copy-caption03 {
+    color: var(--dl-color-gray-black);
     height: auto;
-    font-size: 16px;
+    font-size: 34px;
     max-width: 80%;
-    line-height: 24px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 800;
+    line-height: 34px;
   }
   .index-vn-copy-content02 {
     gap: var(--dl-space-space-oneandhalfunits);
@@ -2809,9 +2855,30 @@
     line-height: 30px;
   }
   .index-vn-copy-caption04 {
+    color: var(--dl-color-gray-black);
     width: 385px;
     height: auto;
     font-size: 16px;
+    font-family: Verdana;
+    line-height: 27px;
+  }
+  .index-vn-copy-text026 {
+    color: var(--dl-color-gray-black);
+    font-size: 18px;
+    font-family: Verdana;
+    line-height: 27px;
+  }
+  .index-vn-copy-text028 {
+    color: var(--dl-color-gray-black);
+    font-size: 18px;
+    font-family: Verdana;
+    line-height: 27px;
+  }
+  .index-vn-copy-text030 {
+    color: var(--dl-color-gray-black);
+    font-size: 18px;
+    font-family: Verdana;
+    line-height: 27px;
   }
   .index-vn-copy-image02 {
     width: 100%;
@@ -2839,12 +2906,15 @@
   }
   .index-vn-copy-header02 {
     font-size: 32px;
-    line-height: 30px;
+    line-height: 32px;
   }
   .index-vn-copy-caption06 {
+    color: var(--dl-color-gray-black);
     width: 405px;
     height: auto;
     font-size: 16px;
+    font-family: Verdana;
+    line-height: 27px;
     padding-right: var(--dl-space-space-threeunits);
   }
   .index-vn-copy-image06 {
@@ -2859,7 +2929,7 @@
   }
   .index-vn-copy-header03 {
     font-size: 32px;
-    line-height: 31px;
+    line-height: 32px;
   }
   .index-vn-copy-caption07 {
     font-size: 16px;
@@ -2872,8 +2942,12 @@
     gap: var(--dl-space-space-unit);
   }
   .index-vn-copy-header04 {
+    color: var(--dl-color-gray-black);
     font-size: 32px;
-    line-height: 30px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 32px;
   }
   .index-vn-copy-caption08 {
     height: auto;
@@ -2890,12 +2964,18 @@
     gap: var(--dl-space-space-unit);
   }
   .index-vn-copy-header05 {
+    color: var(--dl-color-gray-black);
     font-size: 32px;
-    line-height: 31px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 32px;
   }
   .index-vn-copy-caption09 {
+    color: rgb(53, 43, 42);
     font-size: 16px;
-    line-height: 24px;
+    font-family: Karla;
+    line-height: 27px;
   }
   .index-vn-copy-content08 {
     gap: var(--dl-space-space-oneandhalfunits);
@@ -2904,8 +2984,12 @@
     gap: var(--dl-space-space-unit);
   }
   .index-vn-copy-header06 {
+    color: var(--dl-color-gray-black);
     font-size: 32px;
-    line-height: 30px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 32px;
   }
   .index-vn-copy-caption10 {
     height: auto;
@@ -2949,7 +3033,7 @@
     font-size: 32px;
     line-height: 31px;
   }
-  .index-vn-copy-text110 {
+  .index-vn-copy-text104 {
     font-size: 32px;
     line-height: 31px;
   }
@@ -3159,7 +3243,7 @@
     font-family: Cormorant Infant;
     font-weight: 700;
     line-height: 30px;
-    padding-top: var(--dl-space-space-threeunits);
+    padding-top: var(--dl-space-space-fiveunits);
   }
   .index-vn-copy-caption01 {
     color: var(--dl-color-gray-white);
@@ -3194,9 +3278,15 @@
     padding-top: 0px;
   }
   .index-vn-copy-quote {
+    color: rgb(53, 43, 42);
     height: auto;
+    font-size: 24px;
+    font-style: italic;
     margin-top: 0px;
     text-align: left;
+    font-family: Cormorant Infant;
+    font-weight: 600;
+    line-height: 30px;
     padding-top: 0px;
     margin-bottom: var(--dl-space-space-threeunits);
     padding-bottom: 0px;
@@ -3222,9 +3312,15 @@
     margin-right: var(--dl-space-space-unit);
   }
   .index-vn-copy-caption02 {
+    color: var(--dl-color-gray-black);
     width: auto;
     height: auto;
+    font-size: 24px;
     max-width: auto;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 400;
+    line-height: 30px;
     margin-left: var(--dl-space-space-unit);
     margin-right: var(--dl-space-space-unit);
   }
@@ -3236,14 +3332,16 @@
   .index-vn-copy-caption03 {
     color: var(--dl-color-gray-black);
     width: 458px;
-    height: 141px;
-    font-size: 45px;
+    height: auto;
+    font-size: 34px;
     max-width: 100%;
     align-self: center;
     font-style: normal;
     font-family: Cormorant Infant;
     font-weight: 800;
-    line-height: 54px;
+    line-height: 34px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
   }
   .index-vn-copy-content02 {
     width: auto;
@@ -3254,17 +3352,12 @@
   }
   .index-vn-copy-header {
     color: var(--dl-color-gray-black);
-    font-size: 32px;
-    font-style: normal;
-    font-family: Cormorant Infant;
-    font-weight: 700;
-    line-height: 30px;
   }
   .index-vn-copy-caption04 {
     color: var(--dl-color-gray-black);
     width: auto;
     height: auto;
-    font-size: 18px;
+    font-size: 16px;
     font-family: Verdana;
     line-height: 27px;
     margin-bottom: 0px;
@@ -3273,7 +3366,14 @@
   .index-vn-copy-image01 {
     width: 100%;
   }
+  .index-vn-copy-header01 {
+    color: var(--dl-color-gray-black);
+  }
   .index-vn-copy-caption05 {
+    color: var(--dl-color-gray-black);
+    font-size: 16px;
+    font-family: Verdana;
+    line-height: 27px;
     padding-right: var(--dl-space-space-fourunits);
   }
   .index-vn-copy-heading02 {
@@ -3281,11 +3381,7 @@
   }
   .index-vn-copy-header02 {
     color: var(--dl-color-gray-black);
-    font-size: 32px;
-    font-style: normal;
-    font-family: Cormorant Infant;
-    font-weight: 700;
-    line-height: 30px;
+    line-height: 32px;
   }
   .index-vn-copy-caption06 {
     width: auto;
@@ -3295,26 +3391,66 @@
     width: 100%;
   }
   .index-vn-copy-caption07 {
+    color: var(--dl-color-gray-black);
+    font-size: 16px;
+    font-family: Verdana;
+    line-height: 27px;
     padding-right: var(--dl-space-space-fourunits);
   }
   .index-vn-copy-heading04 {
     height: 127px;
     padding-right: 0px;
   }
+  .index-vn-copy-header04 {
+    color: var(--dl-color-gray-black);
+    font-size: 32px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 32px;
+  }
   .index-vn-copy-caption08 {
+    color: var(--dl-color-gray-black);
     height: 83px;
+    font-size: 16px;
+    font-family: Verdana;
+    line-height: 27px;
     padding-right: var(--dl-space-space-fourunits);
   }
   .index-vn-copy-image09 {
     width: 100%;
   }
+  .index-vn-copy-header05 {
+    color: var(--dl-color-gray-black);
+    font-size: 32px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 32px;
+  }
   .index-vn-copy-caption09 {
+    color: rgb(53, 43, 42);
+    font-size: 16px;
+    font-family: Karla;
+    line-height: 27px;
     padding-right: var(--dl-space-space-fourunits);
   }
   .index-vn-copy-heading06 {
-    height: 184px;
+    height: auto;
+  }
+  .index-vn-copy-header06 {
+    color: var(--dl-color-gray-black);
+    font-size: 32px;
+    font-style: normal;
+    font-family: Cormorant Infant;
+    font-weight: 700;
+    line-height: 30px;
   }
   .index-vn-copy-caption10 {
+    color: var(--dl-color-gray-black);
+    font-size: 16px;
+    font-family: Verdana;
+    line-height: 27px;
     padding-right: var(--dl-space-space-fourunits);
   }
   .index-vn-copy-image13 {
@@ -3378,10 +3514,10 @@
   .index-vn-copy-caption12 {
     color: rgb(255, 255, 255);
   }
-  .index-vn-copy-text115 {
+  .index-vn-copy-text109 {
     text-decoration: underline;
   }
-  .index-vn-copy-text119 {
+  .index-vn-copy-text113 {
     text-decoration: underline;
   }
   .index-vn-copy-contact-link {
